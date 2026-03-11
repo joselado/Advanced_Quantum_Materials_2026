@@ -16,3 +16,10 @@ The Jupyter notebooks use [pyqula](https://github.com/joselado/pyqula), and can 
 pip install --upgrade pyqula
 ```
 
+## Tutorial recordings
+The recordings of video tutorials explaining the solutions of the exercises of the Jupyter notebooks can be found below
+- [Session 1: Second quantization, mean field and spontaneous symmetry breaking](https://youtu.be/EOhNyXA3rX8)
+- [Session 2: Band structure theory](https://youtu.be/W_7ETh7WpGE)
+- [Session 3: Topological band structure theory](https://youtu.be/4WkBHhOfWwE)
+- Session 4: The quantum Hall effect
+- Session 5: Superconductivity and Majorana physics
