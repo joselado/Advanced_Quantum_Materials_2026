@@ -8,6 +8,7 @@ The folder sessions contains the Jupyter notebooks for the different sessions of
 - [Session 3: Topological band structure theory](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session3.ipynb)
 - [Session 4: The quantum Hall effect](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session4.ipynb)
 - [Session 5: Superconductivity and Majorana physics](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session5.ipynb)
+- [Session 6: Classical magnetism and magnons](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session6.ipynb)
 
 ## Install
 The Jupyter notebooks use [pyqula](https://github.com/joselado/pyqula), and can be installed from a terminal with pip as
