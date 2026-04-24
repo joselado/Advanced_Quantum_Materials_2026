@@ -9,6 +9,7 @@ The folder sessions contains the Jupyter notebooks for the different sessions of
 - [Session 4: The quantum Hall effect](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session4.ipynb)
 - [Session 5: Superconductivity and Majorana physics](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session5.ipynb)
 - [Session 6: Classical magnetism and magnons](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session6.ipynb)
+- [Session 7: Quantum entanglement and tensor networks](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session7.ipynb)
 - [Session 8: Quantum magnetism, spinons and Kondo](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session8.ipynb)
 - [Session 9: Excitations and impurities in quantum materials](https://github.com/joselado/Advanced_Quantum_Materials_2026/blob/main/jupyter-notebooks/session9.ipynb)
 
